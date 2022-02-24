@@ -36,3 +36,8 @@ form{
     border-style: none;
     float: right;
   }
+  .email{
+    font-size:1rem;
+    font-weight: 800;
+    margin-top: 10px;
+  }
