@@ -26,3 +26,13 @@ form{
     border: none;
     border-bottom: 2px solid rgb(154, 185, 199);
   }
+  button{
+    font-weight: bold;
+    color: #ffffff;
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    border-radius: 20px;
+    border-style: none;
+    float: right;
+  }
