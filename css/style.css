@@ -3,3 +3,11 @@
     padding: 0;
     margin: 0;
 }
+.main{
+    height: 50px;
+    background-color: aqua;
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 600px;
+}
