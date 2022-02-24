@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.one{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.main h2{
+    text-align: center;
+    font-size: 30px;
+}
+form{
+    background-color: gold;
+    height: 500px;
+    width: 400px;
+    padding: 20px;
+    
+  }
+  input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(154, 185, 199);
+  }
+  button{
+    font-weight: bold;
+    color: #ffffff;
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    border-radius: 20px;
+    border-style: none;
+    float: right;
+  }
+  .email{
+    font-size:1rem;
+    font-weight: 800;
+    margin-top: 10px;
+  }
+  #mes{
+    padding-right: 40px;
+    padding-bottom:50px ;
+}
+input:hover{
+  border: none;
+  border-bottom: 2px solid rgb(154, 185, 199);
+
+}
